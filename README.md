@@ -1,6 +1,6 @@
 <div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/BrandonQS-Inventor/count.svg"/>
+  <img src="[https://profile-counter.glitch.me/BrandonQS-Inventor/count.svg](https://komarev.com/ghpvc/?username=BrandonQS-Inventor&color=blue)"/>
   <br/>
 </div>
 <div>
